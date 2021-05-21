@@ -20,4 +20,4 @@
 > > # This is what you can add to your bot. Every category is customized for you liking.  
 > > > ![alt text](https://cdn.discordapp.com/attachments/791536694884171829/845412699378810890/unknown.png)
 
-> > How to start **luvit bot.lua**
+> > How to start ```luvit bot.lua```
