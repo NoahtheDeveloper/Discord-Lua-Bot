@@ -1,0 +1,187 @@
+2021-05-21 13:33:05 | [INFO]    | Discordia 2.3.0
+2021-05-21 13:33:05 | [INFO]    | Connecting to Discord...
+2021-05-21 13:33:05 | [ERROR]   | Could not authenticate, check token: .../Discord Bots/Discord.lua/deps/secure-socket/context.lua:53: bad argument #1 to 'ctx_new' (only support TLS, DTLS to negotiate highest available SSL/TLS or DTLS version above openssl v1.1.0
+optional followed by _client or _server
+default is TLS
+)
+2021-05-21 13:33:14 | [INFO]    | Discordia 2.3.0
+2021-05-21 13:33:14 | [INFO]    | Connecting to Discord...
+2021-05-21 13:33:14 | [ERROR]   | Could not authenticate, check token: .../Discord Bots/Discord.lua/deps/secure-socket/context.lua:53: bad argument #1 to 'ctx_new' (only support TLS, DTLS to negotiate highest available SSL/TLS or DTLS version above openssl v1.1.0
+optional followed by _client or _server
+default is TLS
+)
+2021-05-21 13:33:23 | [INFO]    | Discordia 2.3.0
+2021-05-21 13:33:23 | [INFO]    | Connecting to Discord...
+2021-05-21 13:33:23 | [ERROR]   | Could not authenticate, check token: .../Discord Bots/Discord.lua/deps/secure-socket/context.lua:53: bad argument #1 to 'ctx_new' (only support TLS, DTLS to negotiate highest available SSL/TLS or DTLS version above openssl v1.1.0
+optional followed by _client or _server
+default is TLS
+)
+2021-05-21 13:33:44 | [INFO]    | Discordia 2.3.0
+2021-05-21 13:33:44 | [INFO]    | Connecting to Discord...
+2021-05-21 13:33:44 | [ERROR]   | Could not authenticate, check token: .../Discord Bots/Discord.lua/deps/secure-socket/context.lua:53: bad argument #1 to 'ctx_new' (only support TLS, DTLS to negotiate highest available SSL/TLS or DTLS version above openssl v1.1.0
+optional followed by _client or _server
+default is TLS
+)
+2021-05-21 13:34:16 | [INFO]    | Discordia 2.3.0
+2021-05-21 13:34:16 | [INFO]    | Connecting to Discord...
+2021-05-21 13:34:16 | [ERROR]   | Could not authenticate, check token: .../Discord Bots/Discord.lua/deps/secure-socket/context.lua:53: bad argument #1 to 'ctx_new' (only support TLS, DTLS to negotiate highest available SSL/TLS or DTLS version above openssl v1.1.0
+optional followed by _client or _server
+default is TLS
+)
+2021-05-21 13:36:35 | [INFO]    | Discordia 2.3.0
+2021-05-21 13:36:35 | [INFO]    | Connecting to Discord...
+2021-05-21 13:36:35 | [ERROR]   | Could not authenticate, check token: .../Discord Bots/Discord.lua/deps/secure-socket/context.lua:53: bad argument #1 to 'ctx_new' (only support TLS, DTLS to negotiate highest available SSL/TLS or DTLS version above openssl v1.1.0
+optional followed by _client or _server
+default is TLS
+)
+2021-05-21 13:36:56 | [INFO]    | Discordia 2.8.4
+2021-05-21 13:36:56 | [INFO]    | Connecting to Discord...
+2021-05-21 13:36:56 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 13:36:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 13:36:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 13:36:56 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 13:36:56 | [INFO]    | Shard 0 : Received READY
+2021-05-21 13:39:30 | [INFO]    | Discordia 2.8.4
+2021-05-21 13:39:30 | [INFO]    | Connecting to Discord...
+2021-05-21 13:39:30 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-05-21 13:39:30 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-05-21 13:41:08 | [INFO]    | Discordia 2.8.4
+2021-05-21 13:41:08 | [INFO]    | Connecting to Discord...
+2021-05-21 13:41:09 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-05-21 13:41:09 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-05-21 13:41:21 | [INFO]    | Discordia 2.8.4
+2021-05-21 13:41:21 | [INFO]    | Connecting to Discord...
+2021-05-21 13:41:21 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-05-21 13:41:21 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-05-21 13:41:49 | [INFO]    | Discordia 2.8.4
+2021-05-21 13:41:49 | [INFO]    | Connecting to Discord...
+2021-05-21 13:41:49 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-05-21 13:41:49 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-05-21 13:44:55 | [INFO]    | Discordia 2.8.4
+2021-05-21 13:44:55 | [INFO]    | Connecting to Discord...
+2021-05-21 13:44:55 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-05-21 13:44:55 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-05-21 13:55:49 | [INFO]    | Discordia 2.8.4
+2021-05-21 13:55:49 | [INFO]    | Connecting to Discord...
+2021-05-21 13:55:49 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-05-21 13:55:49 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-05-21 13:58:21 | [INFO]    | Discordia 2.8.4
+2021-05-21 13:58:21 | [INFO]    | Connecting to Discord...
+2021-05-21 13:58:21 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 13:58:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 13:58:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 13:58:21 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 13:58:21 | [INFO]    | Shard 0 : Received READY
+2021-05-21 13:59:32 | [INFO]    | Discordia 2.8.4
+2021-05-21 13:59:32 | [INFO]    | Connecting to Discord...
+2021-05-21 13:59:32 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 13:59:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 13:59:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 13:59:33 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 13:59:33 | [INFO]    | Shard 0 : Received READY
+2021-05-21 14:03:38 | [INFO]    | Discordia 2.8.4
+2021-05-21 14:03:38 | [INFO]    | Connecting to Discord...
+2021-05-21 14:03:39 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 14:03:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 14:03:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 14:03:39 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 14:03:39 | [INFO]    | Shard 0 : Received READY
+2021-05-21 14:04:47 | [INFO]    | Discordia 2.8.4
+2021-05-21 14:04:47 | [INFO]    | Connecting to Discord...
+2021-05-21 14:04:47 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 14:04:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 14:04:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 14:04:47 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 14:04:47 | [INFO]    | Shard 0 : Received READY
+2021-05-21 14:05:10 | [INFO]    | Discordia 2.8.4
+2021-05-21 14:05:10 | [INFO]    | Connecting to Discord...
+2021-05-21 14:05:10 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 14:05:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 14:05:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 14:05:10 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 14:05:11 | [INFO]    | Shard 0 : Received READY
+2021-05-21 14:05:46 | [INFO]    | Discordia 2.8.4
+2021-05-21 14:05:46 | [INFO]    | Connecting to Discord...
+2021-05-21 14:05:46 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 14:05:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 14:05:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 14:05:46 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 14:05:46 | [INFO]    | Shard 0 : Received READY
+
+
+
+
+	if content == "!embed" then
+		message:reply {
+			embed = {
+				title = "__**Bot Panel**__",
+				description = "Welcome to Lua Bot Panel, try out the commands below and see how you like it!",
+				author = {
+					name = author.username,
+					icon_url = author.avatarURL
+				},
+				fields = { -- array of fields
+					{
+						name = "Commands",
+						value = "`.say` - Says the message that you send\n`.ban`- Bans Individual from a server",
+						inline = true
+					},
+					{
+						name = "Field 2",
+						value = "This is some more information",
+						inline = false
+					}
+				},
+				footer = {
+					text = "Lua Bot"
+				},
+				color = 0x000000 -- hex color code
+			}
+		}
+	end
+
+end)
+
+
+2021-05-21 14:13:12 | [INFO]    | Discordia 2.8.4
+2021-05-21 14:13:12 | [INFO]    | Connecting to Discord...
+2021-05-21 14:13:12 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 14:13:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 14:13:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 14:13:12 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 14:13:12 | [INFO]    | Shard 0 : Received READY
+2021-05-21 14:13:29 | [INFO]    | Discordia 2.8.4
+2021-05-21 14:13:29 | [INFO]    | Connecting to Discord...
+2021-05-21 14:13:29 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 14:13:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 14:13:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 14:13:30 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 14:13:30 | [INFO]    | Shard 0 : Received READY
+2021-05-21 14:14:13 | [INFO]    | Discordia 2.8.4
+2021-05-21 14:14:13 | [INFO]    | Connecting to Discord...
+2021-05-21 14:14:13 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 14:14:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 14:14:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 14:14:13 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 14:14:13 | [INFO]    | Shard 0 : Received READY
+2021-05-21 14:17:24 | [INFO]    | Discordia 2.8.4
+2021-05-21 14:17:24 | [INFO]    | Connecting to Discord...
+2021-05-21 14:17:24 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 14:17:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 14:17:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 14:17:24 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 14:17:24 | [INFO]    | Shard 0 : Received READY
+2021-05-21 14:17:35 | [INFO]    | Discordia 2.8.4
+2021-05-21 14:17:35 | [INFO]    | Connecting to Discord...
+2021-05-21 14:17:35 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 14:17:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 14:17:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 14:17:35 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 14:17:35 | [INFO]    | Shard 0 : Received READY
+2021-05-21 14:22:57 | [INFO]    | Discordia 2.8.4
+2021-05-21 14:22:57 | [INFO]    | Connecting to Discord...
+2021-05-21 14:22:57 | [INFO]    | Authenticated as InfinityBot#3837
+2021-05-21 14:22:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-21 14:22:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-21 14:22:57 | [INFO]    | Shard 0 : Received HELLO
+2021-05-21 14:22:57 | [INFO]    | Shard 0 : Received READY
